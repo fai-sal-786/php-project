@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+.btn1{
+    width: 80px;
+    height: 30px;
+}
+
+h4{
+    text-align: left;
+}
+
+h5{
+    text-align: right;
+}
+
+tbody{
+    text-align: center; 
+}
+
+thead{
+    text-align: center;
+}
+
+text{
+    text-align: center;
+}
